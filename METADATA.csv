@@ -1,0 +1,5 @@
+Tablo,Satır Sayısı,Sütun Sayısı,Sütunlar,Boyut (KB),Son Güncelleme,Sahip,Şema,Veritabanı
+customers,1000,6,"customer_id, name, city, age, gender, signup_date",278.69,2026-06-05 21:37,admin,public,ecommerce (PostgreSQL)
+products,25,5,"product_id, name, category, price, stock",3.83,2026-06-05 21:37,admin,public,ecommerce (PostgreSQL)
+orders,5000,5,"order_id, customer_id, order_date, status, total_amount",713.06,2026-06-05 21:37,admin,public,ecommerce (PostgreSQL)
+order_items,12593,6,"item_id, order_id, product_id, quantity, unit_price, discount",590.43,2026-06-05 21:37,admin,public,ecommerce (PostgreSQL)
